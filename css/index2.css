@@ -1,0 +1,28 @@
+body {
+    font: normal normal normal 18px/19.8px Tahoma, Verdana, Arial, sans-serif;
+}
+header {
+    font-size: 2em;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+footer {
+    color: silver;
+    background-color: #454545;
+    font-size: 0.8em;
+    font-style: italic;
+}
+td {
+    padding-bottom: 1.5em;
+}
+.bold {
+    font-weight: bold;
+}
+.red {
+    color: red;
+}
+.sbs {
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+}
