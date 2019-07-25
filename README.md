@@ -22,4 +22,35 @@ From session 2 on CSS, we created or used:
 
 ## Session 3 - Javascript I
 
+### INDEX3.HTML
+
+<link href="css/index3.css" type="text/css" rel="stylesheet">
+<script src="js/index3.js"></script>
+
+<body onload="loaded();">
+
+LEFT DIV
+
+<button onClick="prev();">Prev</button>
+<button onClick="next();">Next</button>
+
+### CSS/INDEX3.CSS
+
+No changes
+
+### JS/INDEX3.JS
+
+* browser developer mode (F11 or CTRL-SHFT-I)
+  * Javascript types (number, string, boolean, array, object)
+* variable declaration (var)
+* Object properties (obj.name)
+* Message display (console: log, warn, error)
+* Program flow (if, while)
+* Loops (for(;;), for(of))
+* Arrays (push, pop, [idx])
+* Functions
+
 ## Session 4 - Javascript II
+
+* <button onClick="auto();">Prev</button>
+* function auto() {..}
